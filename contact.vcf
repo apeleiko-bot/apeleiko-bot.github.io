@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Андрей Тадеушевич Пелейко
+N:Пелейко;Андрей;Тадеушевич;;
+ORG:Zrobat.by;Сервисная робототехника
+TITLE:Руководитель отдела продаж
+TEL;TYPE=CELL,VOICE:+375292550883
+EMAIL;TYPE=PREF,INTERNET:a.peleiko@zrobat.by
+URL:https://apeleiko-bot.github.io/
+END:VCARD
